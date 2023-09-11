@@ -1,0 +1,392 @@
+.container-fluid{
+    align-items:center;
+}
+.container{
+    height:10000px;
+    width:1400px;
+
+}
+.a1{
+    height:100px;
+    width: 1400px;
+    background-color: white;
+    margin:0px;
+    padding:0px;
+}
+
+.a2{
+    height:9900px;
+    width:1400px;
+    background-color:white;
+    margin:0px;
+    padding:0px;
+}
+.a3{
+    height:100px;
+    width:50%;
+    float:left;
+}
+.a4{
+    height:100px;
+    width:50%;
+    float:left;
+}
+.a5{
+    height:700px;
+    width:1400px;
+    background-color:white;
+    
+}
+.a6{
+    height:800px;
+    width:100%;
+    background-color: white;
+    margin:0px;
+    padding:0px;
+    
+}
+.a7{
+    height:700px;
+    width:500px;
+    float:left;
+}
+.a8{
+    height:700px;
+    width:900px;
+    float:left;
+    background-image: url(imgs/hero-img.svg);
+    background-size:contain;
+    background-repeat:no-repeat;
+    position: relative;
+    top:200px;
+}
+.a9{
+    height:700px;
+    width:1400px;
+    background-color:white;
+}
+.a10{
+    margin-top:100px;
+    height:700px;
+    width:900px;
+    background-image:url(imgs/about1.svg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    /* background-position-y: 120px; */
+    float: left;
+}
+.a11{
+    margin-top:100px;
+    height:700px;
+    width:500px;
+    float:left;
+}
+.a12{
+    height:600px;
+    width:1400px;
+    background-color: white;
+}
+.a13{
+    margin-top:100px;
+    height:700px;
+    width:500px;
+    float:left;
+}
+.a14{
+    margin-top:100px;
+    height:700px;
+    width:900px;
+    background-image:url(imgs/about2.svg);
+    background-size:contain;
+    background-repeat:no-repeat;
+    float:left;
+}
+.a15{
+    height:800px;
+    width:1400px;
+    background-color:white;
+}
+.a16{
+    margin-top:100px;
+    height:400px;
+    width:1400px;
+    background-color:rgb(94, 21, 229);
+}
+.a18{
+    height:1200px;
+    width:1400px;
+    /* background-image:url(imgs/counter-img.svg); */
+    background-repeat:no-repeat;
+    /* margin:0px;
+    padding:0px; */
+}
+.a19{
+    height:1000px;
+    width:1400px;
+    /* background-color:white; */
+    background-image:url(imgs/counter-img.svg);
+    background-repeat: no-repeat;
+}
+.a20{
+    height:500px;
+    width:1400px;
+}
+.a22{
+    height:700px;
+    width:900px;
+    float:left;
+    background-image: url(imgs/testimonial-img.svg);
+    background-size:contain;
+    background-repeat:no-repeat;
+    position: relative;
+    top:200px;
+}
+.a23{
+    height:700px;
+    width:1400px;
+    background-color:white;
+}
+/* .im2{
+    height:700px;
+    width:700px;
+    position: relative;
+    top:50px;
+    left:100px;
+} */
+.im1{
+    position: relative;
+    top:10px;
+    left:20px;
+}
+.btn{
+    position: relative;
+    top:40%;
+    left:50px;
+    height:40px;
+    width:100px;
+    color: black;
+    background-color: white;
+    border-color:white;
+    
+}
+.ab1{
+    font-size:55px;
+    padding-top:160px;
+    font-weight:bold;
+}
+.ab2{
+    font-size:20px;
+    padding-top:20px;
+}
+.ab3{
+    font-size:50px;
+    padding-top:160px;
+    font-weight:bold;
+    text-align:center;
+}
+.ab4{
+    padding-top:65px;
+    text-align: center;
+}
+.ab5{
+    font-size:45px;
+    padding-top:120px;
+    font-weight:bold;
+}
+.ab6{
+    padding-top:65px;
+    font-weight:bold;
+    text-align: center;
+    color:white;
+}
+.p2{
+    text-align: center;
+}
+.p1{
+    font-size:25px;
+    padding-top:20px;
+    text-align:center;
+}
+.p3{
+    font-size:20px;
+    padding-top:20px;
+}
+.p5{
+    font-size:20px;
+    text-align:center;
+    color:white;
+}
+.btn1{
+    height:50px;
+    width:150px;
+    background-color:rgb(94, 21, 229);
+    color: white;
+    border-color:rgb(94, 21, 229);
+    border-radius:10px;
+    font-size:20px;
+    position: relative;
+    top:20px;
+}
+.btn2{
+    height:50px;
+    width:150px;
+    background-color:white;
+    color:rgb(94, 21, 229);
+    border-color:rgb(94, 21, 229);
+    border-radius:10px;
+    font-size:20px;
+    position: relative;
+    top:20px;
+    left:15px;
+}
+.btn3{
+    height:50px;
+    width:150px;
+    background-color:rgb(94, 21, 229);
+    color: white;
+    border-color:rgb(94, 21, 229);
+    border-radius:10px;
+    font-size:20px;
+    position: relative;
+    top:20px;
+}
+.btn4{
+    height:50px;
+    width:150px;
+    /* background-color:rgb(94, 21, 229); */
+    color:rgb(94, 21, 229);
+    border-color:rgb(94, 21, 229);
+    border-radius:10px;
+    font-size:15px;
+    position: relative;
+    top:20px;
+}
+.btn5{
+    width:200px;
+    height:50px;
+    background-color:transparent;
+    color:white;
+    position: relative;
+    top:50%;
+}
+.card{
+    height:300px;
+    width:280px;
+    float:left;
+    margin-left:60px;
+    margin-top:60px;
+    border-color:rgb(94, 21, 229);
+}
+.i0{
+    font-size:50px;
+    position: relative;
+    left:43%;
+    top:20px;
+    color:rgb(94, 21, 229);
+}
+.i1{
+    font-size:25px;
+    position: relative;
+    left:43%;
+}
+.i2{
+    font-size:20px;
+    color:rgb(94, 21, 229);
+}
+.text{
+    font-size:20px;
+}
+.text{
+    width:400px;
+    height:50px;
+}
+.proj1{
+	height: 300px;
+	width: 350px;
+/*	background:red ;*/
+}
+.p{
+    height:350px;
+    width:300px;
+    position: relative;
+    bottom:50%;
+}
+.proj{
+	height:1000px;
+	width:1400px;
+    position: relative;
+    top:110px;
+    left:12px;
+/*	background:pink ;*/
+}
+.agen{
+	height: 800px;
+	width: auto;
+/*	background:pink ;*/
+}
+.cd{
+	font-size: 45px;
+	color: blue;
+	font-weight: bold;
+	font-family:roboto ;
+}
+.cd1{
+	font-size: 20px;
+	font-weight: bold;
+	}
+.c1{
+    margin:0px;
+    width:600px;
+    height:350px;
+    box-shadow: 0 0 10px 2px black;
+}
+
+.p6{
+    padding-left:30px;
+}
+.p7{
+    text-align: center;
+    text-align: justify;
+    padding:30px;
+}
+.proj2{
+	height: 50px;
+	width: auto;
+/*	background:pink ;*/
+}
+.im2{
+    height:600px;
+    width:750px;
+}
+.im3{
+    height:500px;
+    width:650px;
+}
+.too{
+	background-image: url(imgs/testimonial-img.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}	
+.akhi{
+	height: 300px;
+	width: 500px;
+	background:white;
+	position: relative;
+	top: 150px;
+	left: 150px;
+}
+.Av{
+	height: 100px;
+	width: 500px;
+	
+}
+.perso{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+}
+.too1{
+	height: 600px;
+	width: auto;
+/*	background: pink;*/
+}
